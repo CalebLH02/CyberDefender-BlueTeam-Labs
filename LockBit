@@ -1,0 +1,11 @@
+Scenario: A medium-sized corporation has experienced a ransomware attack, first identified when a user reported a ransom note on their screen alongside a Windows Defender alert indicating malicious activity. 
+Your task is to analyze logs provided from the compromised machines and identify the ransomware's entry point.
+
+Tools:
+KAPE
+EZ Tools
+Event Log Explorer
+Event Viewer
+CyberChef
+
+Question 1: 
